@@ -50,3 +50,5 @@ This is a paragraph that contains `a link`_.
 .. _a link: http://example.com/
 
 OK THiS A NEW AWESOME CHANGE THAT SHOULD BE AUTOMAGICALLY UPDATED ON READ THE DOCS! :D
+
+OK HOPEFULLY I CAN SE MY TAGGED VERSION
